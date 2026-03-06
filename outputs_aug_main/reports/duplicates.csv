@@ -1,0 +1,10 @@
+file1,class1,file2,class2,distance,note
+garpu_aug_0001.jpg,garpu,garpu_aug_0003.jpg,garpu,4,near-duplicate
+garpu_aug_0010.jpg,garpu,garpu_aug_0015.jpg,garpu,4,near-duplicate
+garpu_aug_0047.jpg,garpu,garpu_aug_0052.jpg,garpu,4,near-duplicate
+garpu_aug_0092.jpg,garpu,garpu_aug_0093.jpg,garpu,4,near-duplicate
+sendok_aug_0001.jpg,sendok,sendok_aug_0009.jpg,sendok,4,near-duplicate
+sendok_aug_0025.jpg,sendok,sendok_aug_0026.jpg,sendok,4,near-duplicate
+sendok_aug_0032.jpg,sendok,sendok_aug_0033_duplicate.jpg,sendok,2,near-duplicate
+sendok_aug_0046.jpg,sendok,sendok_aug_0047_duplicate.jpg,sendok,0,near-duplicate
+sendok_aug_0097.jpg,sendok,sendok_aug_0099.jpg,sendok,4,near-duplicate
